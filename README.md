@@ -1,6 +1,7 @@
 # Sıfırdan İleri Seviyeye Python Programlama
 
 
-Udemy üzerindeki "Sıfırdan İleri Seviyeye Python Programlama" kursundaki Çalışma Notebookları ve Kullanılan Kodlar
+Mustafa Murat Coşkun'un
+Udemy üzerindeki "Sıfırdan İleri Seviyeye Python Programlama" kursundaki Çalışma Notebookları ve Kullanılan Kodları
 
 
